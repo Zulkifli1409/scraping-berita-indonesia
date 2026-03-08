@@ -13,7 +13,7 @@ Aplikasi web scraping untuk mengambil artikel berita dari portal berita Indonesi
 
 ## Demo
 
-[Live Demo](https://your-app-name.streamlit.app) _(setelah deploy, ganti dengan URL aplikasi Anda)_
+[Live Demo](https://scraping-berita-indonesia.streamlit.app)
 
 ## Persyaratan
 
